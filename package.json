@@ -1,8 +1,9 @@
 {
-	"name": "twitter-clone",
+	"name": "amintwitter",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A social media platform created by Amin",
 	"main": "backend/server.js",
+	"author": "Amin",
 	"scripts": {
 		"dev": "cross-env NODE_ENV=development nodemon backend/server.js",
 		"start": "cross-env NODE_ENV=production node backend/server.js",
